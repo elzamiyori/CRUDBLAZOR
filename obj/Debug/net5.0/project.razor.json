@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\BlazorFront.csproj",
+  "FilePath": "c:\\blazor\\CRUDBLAZOR\\BlazorFront.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -266,35 +266,35 @@
         }
       },
       {
-        "HashCode": -801122627,
+        "HashCode": 996913549,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.Pages.Index",
+        "Name": "BlazorFront.Pages.Counter",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Pages.Index"
+          "Common.TypeName": "BlazorFront.Pages.Counter"
         }
       },
       {
-        "HashCode": 1284322893,
+        "HashCode": -1649923385,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.Pages.Index",
+        "Name": "BlazorFront.Pages.Counter",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFront.Pages.Index"
+            "TagName": "BlazorFront.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Pages.Index",
+          "Common.TypeName": "BlazorFront.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -332,68 +332,68 @@
         }
       },
       {
-        "HashCode": 996913549,
+        "HashCode": -801122627,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.Pages.Counter",
+        "Name": "BlazorFront.Pages.Index",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Pages.Counter"
+          "Common.TypeName": "BlazorFront.Pages.Index"
         }
       },
       {
-        "HashCode": -1649923385,
+        "HashCode": 1284322893,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.Pages.Counter",
+        "Name": "BlazorFront.Pages.Index",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFront.Pages.Counter"
+            "TagName": "BlazorFront.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Pages.Counter",
+          "Common.TypeName": "BlazorFront.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 224785982,
+        "HashCode": -1152422531,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.Shared.NavMenu",
+        "Name": "BlazorFront.App",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Shared.NavMenu"
+          "Common.TypeName": "BlazorFront.App"
         }
       },
       {
-        "HashCode": 764231059,
+        "HashCode": -1372905175,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.Shared.NavMenu",
+        "Name": "BlazorFront.App",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFront.Shared.NavMenu"
+            "TagName": "BlazorFront.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.Shared.NavMenu",
+          "Common.TypeName": "BlazorFront.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -547,35 +547,35 @@
         }
       },
       {
-        "HashCode": -1152422531,
+        "HashCode": 224785982,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.App",
+        "Name": "BlazorFront.Shared.NavMenu",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.App"
+          "Common.TypeName": "BlazorFront.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -1372905175,
+        "HashCode": 764231059,
         "Kind": "Components.Component",
-        "Name": "BlazorFront.App",
+        "Name": "BlazorFront.Shared.NavMenu",
         "AssemblyName": "BlazorFront",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFront.App"
+            "TagName": "BlazorFront.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront.App",
+          "Common.TypeName": "BlazorFront.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13267,73 +13267,73 @@
   "RootNamespace": "BlazorFront",
   "Documents": [
     {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\DetailEmployee.razor",
-      "TargetPath": "Pages\\DetailEmployee.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\DetailDepartment.razor",
-      "TargetPath": "Pages\\DetailDepartment.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\AddEmployee.razor",
-      "TargetPath": "Pages\\AddEmployee.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\DepartmentPage.razor",
-      "TargetPath": "Pages\\DepartmentPage.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\EmployeePage.razor",
-      "TargetPath": "Pages\\EmployeePage.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\EditEmployee.razor",
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\EditEmployee.razor",
       "TargetPath": "Pages\\EditEmployee.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\Pages\\Counter.razor",
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\DetailDepartment.razor",
+      "TargetPath": "Pages\\DetailDepartment.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\MATAKULIAH\\FRONTEND\\SebelumUts\\App.razor",
-      "TargetPath": "App.razor",
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\AddEmployee.razor",
+      "TargetPath": "Pages\\AddEmployee.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\DetailEmployee.razor",
+      "TargetPath": "Pages\\DetailEmployee.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\DepartmentPage.razor",
+      "TargetPath": "Pages\\DepartmentPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Pages\\EmployeePage.razor",
+      "TargetPath": "Pages\\EmployeePage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\CRUDBLAZOR\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     }
   ],

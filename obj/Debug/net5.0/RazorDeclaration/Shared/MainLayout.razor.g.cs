@@ -13,70 +13,70 @@ namespace BlazorFront.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 1 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 2 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 3 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 4 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 5 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 6 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 7 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 8 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 9 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using BlazorFront;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\MATAKULIAH\FRONTEND\test\_Imports.razor"
+#line 10 "C:\blazor\CRUDBLAZOR\_Imports.razor"
 using BlazorFront.Shared;
 
 #line default
